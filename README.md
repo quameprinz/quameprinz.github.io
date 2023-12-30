@@ -1,2 +1,2 @@
-# html-freebie-portfolio-perfect
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
+# Mr. Prince Addo's Portfolio Website
+This portfolio websites gives a description of my skills and projects undertaken and gives any recruiter the option to easily get in touch with me. 
